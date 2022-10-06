@@ -1,5 +1,5 @@
 # HackerrankPython
-Homework1 ADM 2022
+Homework_1 ADM 2022/2023 6/10/2022
 
 
 ## Content : 
