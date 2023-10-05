@@ -1,5 +1,5 @@
 # HackerrankPython
-Homework_1 ADM 2022/2023 6/10/2022
+Advanced Data Mining 2022/2023 -  Homework 1
 
 
 ## Content : 
